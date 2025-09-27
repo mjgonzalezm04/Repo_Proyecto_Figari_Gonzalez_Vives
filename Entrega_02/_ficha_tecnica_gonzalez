@@ -5,8 +5,8 @@ Google Trends, descarga de las consultas. Serie semanal de Interés de búsqueda
  
 
 2) Metodología de construcción de la base
-- Extracción de Google Trends, que sea en Chile, en los ultimos 5 años. 
-- Selección de los tres términos para asegurar comparabilidad (escala relativa común).  
+- Extracción de Google Trends, en Chile, en los ultimos 5 años. 
+- Selección de los tres términos para asegurar comparabilidad (escala relativa común). 
 - Exportación del CSV original desde Google Trends.  
 - Limpieza en Python  
   - Conversión de fechas  
