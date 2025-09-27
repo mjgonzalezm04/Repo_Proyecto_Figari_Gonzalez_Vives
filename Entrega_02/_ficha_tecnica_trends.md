@@ -1,7 +1,7 @@
 Ficha técnica de la base de datos limpia
 
 1) Fuente de los datos
--Google Trends, descarga de las consultas. Serie semanal de Interés de búsqueda (0–100)por término, para Chile, en los últimos 5 años.  
+Google Trends, descarga de las consultas. Serie semanal de Interés de búsqueda (0–100)por término, para Chile, en los últimos 5 años.  
  
 
 2) Metodología de construcción de la base
