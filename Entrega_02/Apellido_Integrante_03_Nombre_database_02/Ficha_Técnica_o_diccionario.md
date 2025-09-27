@@ -1,2 +1,0 @@
-# Ficha técnica #  
-
